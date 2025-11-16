@@ -1,4 +1,5 @@
 👋 Hi, I'm Vaibhavi!
+
 Frontend Developer | M.Tech Artificial Intelligence (VNIT)
 
 I build clean, modern, and responsive web applications using React, Next.js, and the latest frontend technologies.
