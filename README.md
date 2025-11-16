@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x250/000000/FFFFFF?text=Vaibhavi+Pande+|+Frontend+Developer+|+AI+Learner)
+
 <h1 align="center">👋 Hi, I'm Vaibhavi!</h1>
 
 <p align="center">
